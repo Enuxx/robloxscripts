@@ -1,3 +1,6 @@
+--[[
+    https://discord.gg/enux
+]]
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
